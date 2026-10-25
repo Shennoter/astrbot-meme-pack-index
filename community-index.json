@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-25T05:23:41Z",
+  "generated_at": "2026-10-25T04:35:08Z",
   "maintainer": "anka-afk",
   "repository": "anka-afk/astrbot-meme-pack-index",
   "packs": [
@@ -229,6 +229,31 @@
         "type": "github",
         "repo": "momo-OwO-qwq/astrbot-meme-pack-kipfel",
         "ref": "master",
+        "subpath": "."
+      }
+    },
+    {
+      "id": "emilia-chibi-meme-pack",
+      "name": "爱蜜莉雅 Q版表情包",
+      "maintainer": "just1cez",
+      "description": "120 张爱蜜莉雅 Q版透明 PNG，覆盖 21 个聊天分类，附逐图中文描述和细粒度标签，不包含本机向量。",
+      "license": "MIT",
+      "verified": false,
+      "tags": [
+        "emilia",
+        "semantic",
+        "ai-generated",
+        "anime",
+        "community",
+        "png"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/just1cez/emilia-meme-pack/main/previews/cover.png"
+      ],
+      "source": {
+        "type": "github",
+        "repo": "just1cez/emilia-meme-pack",
+        "ref": "main",
         "subpath": "."
       }
     }
