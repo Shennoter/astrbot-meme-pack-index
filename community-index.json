@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-25T05:23:41Z",
+  "generated_at": "2026-10-25T04:35:08Z",
   "maintainer": "anka-afk",
   "repository": "anka-afk/astrbot-meme-pack-index",
   "packs": [
@@ -231,9 +231,7 @@
         "ref": "master",
         "subpath": "."
       }
-    }
-  ]
-},
+    },
     {
       "id": "emilia-chibi-meme-pack",
       "name": "爱蜜莉雅 Q版表情包",
@@ -259,3 +257,5 @@
         "subpath": "."
       }
     }
+  ]
+}
